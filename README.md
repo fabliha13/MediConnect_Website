@@ -1,1 +1,3 @@
-# MediConnect is a dynamic website designed to seamlessly connect patients with doctors, streamlining the process of finding healthcare professionals and scheduling appointments. It empowers patients by providing access to comprehensive information about doctors, including their credentials and availability, facilitating convenient booking of appointments based on individual needs and preferences.
+A PHP and MySQL-based platform facilitating seamless patient-doctor interactions. Features include user authentication, appointment booking, feedback submission, and profile management for enhanced user experience and efficient healthcare management.
+
+This repository contains the codebase for Mediconnect, a comprehensive web platform designed to streamline the patient-doctor interaction process. Built using MySQL and PHPAdmin, this website offers a seamless experience for patients and doctors alike.
